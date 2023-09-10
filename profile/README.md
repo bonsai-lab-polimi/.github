@@ -5,7 +5,7 @@ The BONSAI Lab is a research laboratory of DEIB (Dipartimento di Elettronica, In
 BONSAI’s research interests are in area of communication networks and advanced Internet technologies.
 
 Our main research topics are in the field of:
-– Optical Networking
+- Optical Networking
 – 5G Networks
 – Software Defined Networks (SDN) and Cloud Computing
 – Machine Learning and Data Analysis for Networking
