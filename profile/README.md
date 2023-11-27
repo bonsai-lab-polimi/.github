@@ -7,6 +7,7 @@ BONSAI’s research interests are in area of communication networks and advanced
 Our main research topics are in the field of:
 - Optical Networking
 - 5G Networks
-- Software Defined Networks (SDN) and Cloud Computing
+- Software-Defined Wide Area Network (SD-WAN)
+- Software-Defined Networks (SDN) and Cloud Computing
 - Machine Learning and Data Analysis for Networking
 - Network Security, Resiliency and Privacy
